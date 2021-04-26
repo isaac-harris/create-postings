@@ -25,6 +25,8 @@ def get_tag():
 
 def get_country_and_coords():
   country_array = random.choice(country_list).split(",")
+  if len(country_array) != 4:
+    return get_country_and_coords()
   return [country_array[0], country_array[2], country_array[3].strip()]
 
 def generate_random_posting():
