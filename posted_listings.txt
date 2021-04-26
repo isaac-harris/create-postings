@@ -1,0 +1,5 @@
+Colbie Justus,0.25,0.875,0.125,0.5,Review,1.0,Republic of Côte d’Ivoire,0.5,8,-5.5,1780,Pharmaceuticals,0.75,Model,0.875,,,,
+Rhawnie Alys,0.0,0.875,0.125,0.625,Product Placement,0.875,Republic of Panama,0.5,9,-80,708,Telecommunications,0.625,Chocolate Manufactures,1.0,,,,
+Hung Jaruis,1.0,0.25,1.0,0.5,Test,1.0,Republic of Fiji,0.5,-18,178,121,Computers & Electronics,0.875,Healthcare Professional,0.625,,,,
+Stalin Gerilyn,0.875,0.125,0.5,0.375,Product Placement,1.0,Russian Federation,0.5,60,100,2648,Insurance,0.875,Smartphones & Tablets,0.625,Luxury Hotel,0.625,,
+Laray Shayn,0.0,1.0,0.125,0.0,Test,0.625,Islamic Republic of Afghanistan,0.625,33,66,1125,Insurance,1.0,Visitor Management Software,0.5,Digital Design,0.75,,
